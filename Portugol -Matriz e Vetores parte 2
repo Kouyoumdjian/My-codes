@@ -1,0 +1,17 @@
+programa
+{
+	
+	funcao inicio()
+	{
+inteiro contador = 0
+		cadeia cesta[][] = {{"Pera","100"}, {"Jaca","199"}, {"Uva", "200"
+}, {"Maçã", "300"}}
+faca{
+
+escreva("Produto: " + cesta[contador][0] + "Quantidade" + cesta[contador][1])
+contador++
+	
+}enquanto (contador <= 3 )
+
+	}
+}
