@@ -1,0 +1,23 @@
+programa
+{
+	
+	funcao inicio()
+	{
+cadeia frutas[4]
+inteiro contador = 0
+
+frutas[0] = "maca"
+frutas[1] = "pera"
+frutas[2] = "uva"
+frutas[3] = "jaca"
+
+
+faca{
+
+escreva(frutas[contador] + "\n" )
+contador++
+
+	
+} enquanto ( contador <= 3)
+	}
+}
